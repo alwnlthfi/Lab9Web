@@ -1,9 +1,9 @@
 # Tugas Pemograman Web 2
 ## Profil
-| #               | Biodata           |
+|                 | Biodata           |
 | --------------- | ----------------- |
-| **Nama**        | Bilal AlHafidz    |
-| **NIM**         | 312110397         |
+| **Nama**        | Alwan Luthfi      |
+| **NIM**         | 312110296         |
 | **Kelas**       | TI.21.A.1         |
 | **Mata Kuliah** | Pemrograman Web 2 |
 
